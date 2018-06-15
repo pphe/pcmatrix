@@ -1,8 +1,4 @@
 /* 
- * Peter Phe
- * TCSS 422 - Operating Systems
- * Winter 2017
- * Assignment 3 - pcMatrix Matrix Functions
  * Filename: pcmatrix.c
  * Description: Primary module providing control flow for the pcMatrix program.
  * 				Creates a dynamic number of producer and consumer threads and 

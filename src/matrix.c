@@ -1,8 +1,4 @@
 /* 
- * Peter Phe
- * TCSS 422 - Operating Systems
- * Winter 2017
- * Assignment 3 - pcMatrix Matrix Functions
  * Filename: matrix.c
  * Description: Matrix routines.
  */

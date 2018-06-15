@@ -1,8 +1,4 @@
 /* 
- * Peter Phe
- * TCSS 422 - Operating Systems
- * Winter 2017
- * Assignment 3 - pcMatrix Matrix Functions
  * Filename: matrix.h
  * Description: Function prototypes, data, and constants for matrix module.
  */

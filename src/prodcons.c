@@ -1,13 +1,8 @@
 /* 
- * Peter Phe
- * TCSS 422 - Operating Systems
- * Winter 2017
- * Assignment 3 - pcMatrix Matrix Functions
  * Filename: prodcons.c
  * Description: Implements routines for the producer/consumer module.
  */
 
-// Include only libraries for this module
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
@@ -16,12 +11,12 @@
 #include "../include/pcmatrix.h"
 #include "../include/prodcons.h"
 
-// Producer consumer data structures
+// producer consumer data structures
 int **bigmatrix[MAX];
 int fill_ptr;
 int use_ptr;
 
-// Producer consumer locks and conditions
+// producer consumer locks and conditions
 pthread_mutex_t mutex;
 pthread_cond_t empty, fill;
 
